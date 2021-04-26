@@ -1,6 +1,6 @@
-#Team 1nf1n1ty CTF writeups#
+# Team 1nf1n1ty CTF writeups
 
-**Writeups for:** 
+**Writeups for:** </br>
 -find me
 -social ID 1
 -social ID 2
