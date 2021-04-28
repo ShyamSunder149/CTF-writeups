@@ -161,6 +161,23 @@ picoCTF{learning_about_converting_values_b375bb16}
 
 ```
 
+## plumbing
+
+connect to netcat and use this command
+
+```
+
+nc jupiter.challenges.picoctf.org 4427 | grep pico  
+
+```
+
+```
+
+picoCTF{digital_plumb3r_5ea1fbd7}
+
+```
+
+
 
 
 
