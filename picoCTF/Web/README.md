@@ -40,4 +40,14 @@ picoCTF{no_clients_plz_b706c5}
 
 ```
 
+## scavenger hunt
+
+an upgraded version of inspector.. there are totally 5 parts of the flag. first part in html. second part is css. searching for the third part in js there is a hint indexing which means we should check on robots.txt . for the fourth part there is a hint in robots.txt that its an apache server so we should check .htaccess. for the fifth part there is a hint in .htaccess that websites developed in mac so we should check .DS_Store
+
+```
+
+picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_fa04427c}
+
+```
+
 
