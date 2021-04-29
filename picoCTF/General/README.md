@@ -177,6 +177,33 @@ picoCTF{digital_plumb3r_5ea1fbd7}
 
 ```
 
+## Music
+
+decoding of the esolang rockstar will give you flag in ascii and decode ascii to get the flag
+
+```
+
+picoCTF{rrrocknrn0113r}
+
+```
+
+##  static aint always noise
+
+decode with the following command which is built with the hints given in bash script
+
+```
+
+chmod +x ./static
+strings -a ./static | grep pico
+
+```
+
+```
+
+picoCTF{d15a5m_t34s3r_6f8c8200}
+
+```
+
 
 
 
