@@ -35,7 +35,7 @@ fcrackzip -v -D -u -p /usr/share/wordlists/rockyou.txt ch5.zip
 ```
 in this command fcrackzip is the base package and -v is used for Validation, -D is used to access dictionary, -u is
 used to unzip the file and -p is used for using string as an initial password.
-after running this command it usually takes few minutes to get you the answer and I finally got the password
+after running this command it usually takes few minutes to get you the answer and I finally got the password</br>
 ![PKZIP2](https://user-images.githubusercontent.com/55373148/116654210-53c4be00-a9a6-11eb-8988-1fbb4a6f5bb6.png)
 
 
