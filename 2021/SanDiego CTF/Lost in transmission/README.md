@@ -1,5 +1,9 @@
 # Lost in Transmission
 
+![misc category](https://img.shields.io/badge/category-Crypto-blueviolet.svg)   
+![level](https://img.shields.io/badge/level-Easy-blue.svg)
+![score](https://img.shields.io/badge/score-75-blue.svg)
+
 ## Challenge:
 
 I had my friend send me the flag, but it seems a bit...off.
