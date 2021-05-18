@@ -1,6 +1,10 @@
 
 # Aurora
 
+![misc category](https://img.shields.io/badge/category-Misc-blueviolet.svg)   
+![level](https://img.shields.io/badge/level-Easy-blue.svg)
+![score](https://img.shields.io/badge/score-50-blue.svg)
+
 ## Challenge:
 
 Aurora is a marvelous phenomenon caused by the interaction between strong solar wind and magnetosphere around the earth.
