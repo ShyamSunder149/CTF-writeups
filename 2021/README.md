@@ -62,3 +62,11 @@
 * misc > R3veng3 0f th3 Inv151ble
 * pwn > MoM5m4g1c
 * RE > H3ll0R3v
+
+## BCACTF 2.0
+* crypto > Easy RSA
+* crypto > Slightly Harder RSA
+* RE > Storytime: The Opening Gambit
+* webex > Home Automation
+* forensics > Secure Zip
+* forensics > Zstegosaurus
