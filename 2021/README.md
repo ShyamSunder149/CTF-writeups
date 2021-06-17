@@ -70,3 +70,10 @@
 * webex > Home Automation
 * forensics > Secure Zip
 * forensics > Zstegosaurus
+
+## HSCTF 8
+* crypto > queen of the hill
+* misc > lsblue
+* misc > pallets of gold
+* misc > glass window
+* web > NRC
