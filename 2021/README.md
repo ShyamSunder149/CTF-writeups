@@ -73,6 +73,7 @@
 
 ## HSCTF 8
 * crypto > queen of the hill
+* crypto > aptenodytes forsteri
 * misc > lsblue
 * misc > pallets of gold
 * misc > glass window
