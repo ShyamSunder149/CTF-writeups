@@ -78,3 +78,39 @@
 * misc > pallets of gold
 * misc > glass window
 * web > NRC
+
+## Lexington
+* crypto > 7 More Caesar Salads
+* crypto > Zzz
+* crypto > RSA Improved
+* crypto > Scottish Flag
+* misc > HelloWorld
+* misc > Hex to ASCII
+* misc > Intro To CTF
+* misc > Peanutbutter.Jar
+* misc > Dots and Lines
+* misc > Discord Flag
+* misc > Steganography
+* misc > Never Gonna Give You Up
+* misc > CodeTiger ORZ
+* misc > GeoGuessr1
+* misc > survey
+* rev > Yarn
+* web > Let It Go
+* web > My First Website
+* web > dizzy
+
+## redpwn
+* misc > sanity-check
+* misc > discord
+* misc > survey
+* misc > compliant-lattice-feline
+* crypto > scissor
+* crypto > baby
+* crypto > round-the-bases
+* pwn > ret2generic-flag-reader
+* re > wstrings
+* web > inspect-me
+* web > orm-bad
+
+
