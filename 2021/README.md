@@ -113,4 +113,7 @@
 * web > inspect-me
 * web > orm-bad
 
+## Securebug LOKI
+* crypto > war enc
+* crypto > relatively easy
 
