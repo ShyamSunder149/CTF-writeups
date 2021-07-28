@@ -117,3 +117,6 @@
 * crypto > war enc
 * crypto > relatively easy
 
+## Imaginary CTF
+* crypto > Chicken Caesor Salad
+* Misc > Hidden
