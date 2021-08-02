@@ -1,0 +1,12 @@
+# Ciphers Galore
+The hackers from Thehackerscrew have been sending encrypted messages to each other. We have intercepted this code from them: https://hastebin.com/ajabitobet.rb Looks like it’s up to you to solve this mystery. Can you find out what this message says?
+
+a traditional cipher salad challenge which follows this order of decryption
+ROT47
+base64
+ROT13
+
+flag
+```
+RTL{s1mpl3_cRypt0_ch@113ng3_3h?}
+```
