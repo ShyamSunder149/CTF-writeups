@@ -120,3 +120,18 @@
 ## Imaginary CTF
 * crypto > Chicken Caesor Salad
 * Misc > Hidden
+
+## RTLxHA
+* crypto > Welcome 
+* crypto > ciphers galore
+* crypto > triangle
+* crypto > wait what
+* crypto > last words
+* crypto > wwii
+* rev > bad developers
+* rev > gate to ultimate success
+* osint > thanks for playing
+* osint > Identifying an attack
+* windows forensics > wdigest
+* forensics > expic
+* web > basic
