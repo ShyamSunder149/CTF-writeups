@@ -1,4 +1,4 @@
-# 2021
+# 2021 List of Solved Challenges
 
 ## DCTF
 * misc > Encrypted the flag I have 
@@ -135,3 +135,7 @@
 * windows forensics > wdigest
 * forensics > expic
 * web > basic
+
+## BsidesNoida CTF
+* misc > psst
+* misc > Artwork
