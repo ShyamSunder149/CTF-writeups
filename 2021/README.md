@@ -139,3 +139,22 @@
 ## BsidesNoida CTF
 * misc > psst
 * misc > Artwork
+
+## RCTS CERT 2021
+* crypto > simple challenge
+* crypto > hextraordinary
+* crypto > Roman encryption
+* web > Exclusive access
+* RE > You are not allowed
+* pwn > Well hello there
+* forensics > Hiding in plain sight
+* forensics > Welcome to the challenge
+* forensics > About us
+
+## InCTFi
+* Forensics > ermittlung
+
+## Hackers playground 
+* web > Sqli101
+* crypto > RC4
+* crypto > RSA101
